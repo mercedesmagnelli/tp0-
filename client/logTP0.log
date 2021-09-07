@@ -1,0 +1,19 @@
+[TRACE] 21:31:16:494 tp0log/(7153:7153): Hola, soy un log!
+[TRACE] 22:58:40:773 tp0log/(8746:8746): Hola, soy un log!
+[TRACE] 22:59:28:619 tp0log/(8780:8780): Hola, soy un log!
+[TRACE] 09:18:14:777 tp0log/(3448:3448): Hola, soy un log!
+[TRACE] 09:20:27:756 tp0log/(3604:3604): Hola, soy un log!
+[TRACE] 09:23:08:230 tp0log/(3820:3820): Hola, soy un log!
+[TRACE] 09:23:51:785 tp0log/(3899:3899): Hola, soy un log!
+[TRACE] 09:24:56:217 tp0log/(3940:3940): Hola, soy un log!
+[TRACE] 09:24:56:219 tp0log/(3940:3940): Obtuve: 127.0.0.1
+[TRACE] 09:24:56:219 tp0log/(3940:3940): Obtuve: 4444
+[TRACE] 09:24:56:219 tp0log/(3940:3940): Obtuve: Hola, soy un valor
+[TRACE] 09:26:50:920 tp0log/(4023:4023): Hola, soy un log!
+[TRACE] 09:26:50:928 tp0log/(4023:4023): Obtuve: 127.0.0.1
+[TRACE] 09:26:50:932 tp0log/(4023:4023): Obtuve: 4444
+[TRACE] 09:26:50:932 tp0log/(4023:4023): Obtuve: Hola, soy un valor
+[INFO] 09:26:54:183 tp0log/(4023:4023): hola
+[INFO] 09:26:56:973 tp0log/(4023:4023): como va
+[INFO] 09:26:59:387 tp0log/(4023:4023): todo bien pipi
+[INFO] 09:27:05:371 tp0log/(4023:4023): me alegro mucho equisde

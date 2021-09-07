@@ -1,0 +1,18 @@
+[INFO] 09:53:07:409 Servidor/(5034:5034): Servidor listo para recibir al cliente
+[INFO] 10:00:55:186 Servidor/(5419:5419): Servidor listo para recibir al cliente
+[INFO] 10:04:41:263 Servidor/(5533:5533): Servidor listo para recibir al cliente
+[DEBUG] 10:04:41:264 Servidor/(5533:5533): estoy por esperar a un cliente
+[INFO] 10:09:01:523 Servidor/(5691:5691): Servidor listo para recibir al cliente
+[DEBUG] 10:09:01:524 Servidor/(5691:5691): estoy por esperar a un cliente
+[INFO] 10:09:16:417 Servidor/(5691:5691): Se conecto un cliente!
+[INFO] 10:09:16:417 Servidor/(5691:5691): Me llego el mensaje Hola, soy un valor
+[INFO] 10:09:25:907 Servidor/(5691:5691): Me llegaron los siguientes valores:
+
+[ERROR] 10:09:25:907 Servidor/(5691:5691): el cliente se desconecto. Terminando servidor
+[INFO] 10:14:55:182 Servidor/(6111:6111): Servidor listo para recibir al cliente
+[DEBUG] 10:14:55:182 Servidor/(6111:6111): estoy por esperar a un cliente
+[INFO] 10:14:58:274 Servidor/(6111:6111): Se conecto un cliente!
+[INFO] 10:14:58:274 Servidor/(6111:6111): Me llego el mensaje Hola, soy un valor
+[INFO] 10:15:07:830 Servidor/(6111:6111): Me llegaron los siguientes valores:
+
+[ERROR] 10:15:07:831 Servidor/(6111:6111): el cliente se desconecto. Terminando servidor

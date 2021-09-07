@@ -6,7 +6,10 @@ int main(void) {
 	int server_fd = iniciar_servidor();
 	log_info(logger, "Servidor listo para recibir al cliente");
 	int cliente_fd = esperar_cliente(server_fd);
-
+	void iterator(char* value)
+		{
+			printf("%s\n", value);
+		}
 	t_list* lista;
 	while (1) {
 		int cod_op = recibir_operacion(cliente_fd);
@@ -31,6 +34,4 @@ int main(void) {
 	return EXIT_SUCCESS;
 }
 
-void iterator(t_log* logger, char* value) {
-	log_info(logger,"%s\n", value);
-}
+
